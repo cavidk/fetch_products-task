@@ -1,4 +1,4 @@
-çç# Test-Project
+# Test-Project
 ### 🚀 How to Run Locally
 1. `npm install`
 2. `npm run dev`
