@@ -1,8 +1,8 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import axios from 'axios';
-import "./index.css"; 
-import App from "./App.jsx"; 
+import "./index.css";
+import App from "./App.jsx";
 import { ApolloClient, InMemoryCache, ApolloProvider } from "@apollo/client";
 import { Provider } from "react-redux";
 import { store } from "./store/store.js";
